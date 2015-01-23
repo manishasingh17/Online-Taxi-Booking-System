@@ -1,2 +1,3 @@
 # Online-Taxi-Booking-System
 Online Taxi Booking System Using PHP &amp; MySQL...
+User can book taxi online by register on this applicataion and admin can see first 2 hours taxi bookings.
